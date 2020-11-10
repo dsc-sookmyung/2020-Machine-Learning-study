@@ -10,7 +10,7 @@
 ### ※ 제출 방법
 1. DSC 깃허브의 __2020-MachineLearning-study__ 레파지토리의 main branch를 pull 합니다.
 2. 자신의 아이디를 이름으로 브랜치를 만듭니다.
-3. Week3 폴더 내의 `\[Week6\]이름.ipynb` 파일을 **복사**하여 이름에 본인이름을 넣고, 답을 작성하신 후에, 본인의 branch로 push 합니다.
+3. Week3 폴더 내의 `[Week6]이름.ipynb` 파일을 **복사**하여 이름에 본인이름을 넣고, 답을 작성하신 후에, 본인의 branch로 push 합니다.
 4. pull-request를 보냅니다.
 
 * * *
